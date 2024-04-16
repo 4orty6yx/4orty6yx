@@ -1,7 +1,7 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
 <h1 align="center"><b>4ORTY6YX OFFICIAL</b>
- <a><img src='https://i.imgur.com/LyHic3i.gif' width="25%"/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
   <a  align="center"><img src='.png'/></a>
 <p align="center">
