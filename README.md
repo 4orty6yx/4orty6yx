@@ -10,7 +10,7 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
 <p align="center">call me alunya
-<br> a graphics dersigner
+<br> a graphics designer
 <br>coding ethusiasit
 <br>fullstack developer
-<br>whatsapp:https://wa.link/0l9zkk</p>
+<br>whatsapp me here❄️❄️:https://wa.link/0l9zkk</p>
