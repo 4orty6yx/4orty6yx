@@ -10,6 +10,7 @@
  
  [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=4orty6yx&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4orty6yx&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=4orty6yx&theme=dark&background=000000)](https://git.io/streak-stats)
 
 </p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
