@@ -12,7 +12,7 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4orty6yx&langs_count=5&theme=tokyonight)]()
 
 </p>
- <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+ <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="Dotnet" alt="Dotnet" width="40" height="40"/>&nbsp;
@@ -27,6 +27,7 @@
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">call me alunya</p>
 <h4>Graphics designer</h4>
