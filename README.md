@@ -9,8 +9,7 @@
 </p>
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=4orty6yx&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4orty6yx&count=5&theme=tokyonight)]()
+
 <p align="center">call me alunya</p>
 <h4>Graphics designer</h4>
 <h4>Fullstack developer</h4>
