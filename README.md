@@ -13,6 +13,7 @@
 <h4>Graphics designer</h4>
 <h4>Fullstack developer</h4>
 <h4>funny in life, lowkey comedian</h4>
+<h4>whatsapp me here❄️❄️:https://wa.link/0l9zkk</h4>
  
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
