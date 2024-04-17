@@ -14,6 +14,11 @@
 <h4>Fullstack developer</h4>
 <h4>funny in life, lowkey comedian</h4>
 <h4>whatsapp me here❄️❄️:https://wa.link/0l9zkk</h4>
+
+
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=4orty6yx&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=4orty6yx_count=5&theme=tokyonight)]()
  
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
