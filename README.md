@@ -10,10 +10,9 @@
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
 <p align="center">call me alunya</p>
-* `sudo apt update && upgrade`
-* `sudo apt install git python3`
-* `git clone https://github.com/Cyberboysatyam/Whatsapp-Banner`
-* `cd Whatsapp-Banner`
-* `python3 banner.py`
+<h4>Graphics designer</h4>
+<h4>Fullstack developer</h4>
+<h4>funny in life, lowkey comedian</h4>
+ 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 </a>
