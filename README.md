@@ -20,6 +20,8 @@
 <h4>funny in life, lowkey comedian</h4>
 <h4>whatsapp me here❄️❄️:https://wa.link/0l9zkk</h4>
 
+<img src="https://komarev.com/ghpvc/?username=4orty6yx&style=flat-square&color=blue" alt=""/>
+
 
 
 
