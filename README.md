@@ -31,7 +31,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 <p align="center">call me alunya</p>
-<h4>Graphics designer</h4>
+<h4>Graphic designer</h4>
 <h4>UI/UX designer</h4>
 <h4>Frontend developer</h4>
 
