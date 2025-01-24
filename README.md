@@ -32,9 +32,8 @@
 
 <p align="center">call me alunya</p>
 <h4>Graphics designer</h4>
-<h4>Fullstack developer</h4>
-<h4>funny in life, lowkey comedian</h4>
-<h4>whatsapp me here❄️❄️:https://wa.link/0l9zkk</h4>
+<h4>UI/UX designer</h4>
+<h4>Frontend developer</h4>
 
 
 
